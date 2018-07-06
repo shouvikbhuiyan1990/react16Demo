@@ -1,6 +1,6 @@
 import React, { Component,Fragment } from 'react';
 
-class App extends Component {
+class Fragments extends Component {
 
     /* 
         * Method 1, returning Array
@@ -59,4 +59,4 @@ class App extends Component {
 
 }
 
-export default App;
+export default Fragments;
