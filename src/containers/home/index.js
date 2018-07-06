@@ -8,6 +8,7 @@ const Home = props => (
   <div>
     <a className="styled" onClick={() => props.changePage('/fragments')}>Fragments</a>
     <a className="styled" onClick={() => props.changePage('/custom-attr')}>Custom Attributes</a>
+    <a className="styled" onClick={() => props.changePage('/portals')}>Portals</a>
   </div>
 )
 

@@ -57,6 +57,15 @@ class Fragments extends Component {
 //     )
 //   }
 
+
+/* 
+    * return number or strings
+*/
+
+//   render() {
+//     return 'sample string'
+//   }
+
 }
 
 export default Fragments;
