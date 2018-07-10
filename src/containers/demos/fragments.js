@@ -1,4 +1,6 @@
-import React, { Component,Fragment } from 'react';
+import React, { Component } from 'react';
+
+// import {Fragment } from 'react';
 
 class Fragments extends Component {
 
