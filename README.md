@@ -1,6 +1,6 @@
 ## Install dependencies
 
-``` npm install ``
+``` npm install ```
 
 ## Run application in local
 
